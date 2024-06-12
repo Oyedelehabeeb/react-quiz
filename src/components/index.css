@@ -46,7 +46,7 @@ body {
   display: flex;
   align-items: center;
   /* gap: 40px; */
-  margin-left: 30rem;
+  margin-left: 35rem;
   justify-content: space-around;
 }
 
@@ -161,7 +161,7 @@ progress {
   display: flex;
   flex-direction: column;
   gap: 2rem;
-  margin-bottom: 2rem;
+  margin-bottom: 0.95rem;
 }
 
 .btn-option.correct {
